@@ -274,7 +274,7 @@ client.on("message", async (message) => {
 
 const activities_list = [ 
     "Watching", 
-    "Watching You're Twitch Tokens..**Drool**"
+    "You're Tokens..**Drool**"
     ]; // creates an arraylist containing phrases you want your bot to switch through.
 
 client.on('ready', () => {
